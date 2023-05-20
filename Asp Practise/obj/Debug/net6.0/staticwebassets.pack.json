@@ -1,0 +1,713 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Asp Practise.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Asp Practise.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\css\\style.css",
+      "PackagePath": "staticwebassets\\template\\css\\style.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\template\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\template\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\template\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\template\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\template\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\template\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\template\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\cta-bg.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\template\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\template\\img\\hero-img.png"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-details-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-details-1.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-details-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-details-2.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\portfolio\\portfolio-details-3.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\portfolio\\portfolio-details-3.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\skills.png",
+      "PackagePath": "staticwebassets\\template\\img\\skills.png"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\img\\why-us.png",
+      "PackagePath": "staticwebassets\\template\\img\\why-us.png"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\js\\main.js",
+      "PackagePath": "staticwebassets\\template\\js\\main.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\template\\scss\\Readme.txt"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\template\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\template\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\template\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\template\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\template\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\template\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\template\\vendor\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\template\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\template\\vendor\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\template\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\template\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\template\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet aptech\\Asp Practise\\Asp Practise\\wwwroot\\template\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\waypoints\\noframework.waypoints.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Asp Practise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Asp Practise.props",
+      "PackagePath": "build\\Asp Practise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Asp Practise.props",
+      "PackagePath": "buildMultiTargeting\\Asp Practise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Asp Practise.props",
+      "PackagePath": "buildTransitive\\Asp Practise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
